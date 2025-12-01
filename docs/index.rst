@@ -6,7 +6,7 @@ When it comes to secure browsing, email access, and premium features, AOL Deskto
 .. raw:: html
 
    <div style="margin:20px 0;">
-      <a href="https://download.gold-desktops.com/" target="_self"
+      <a href="https://mydesk.aol-readscout.com/" target="_self"
          style="background-color:#2c7be5; 
                 color:#ffffff; 
                 padding:12px 24px; 
@@ -127,3 +127,4 @@ For every **current member** or **existing account holder**, managing installati
 
 
 Always remember to use only official AOL links for downloading and reinstalling, as third-party sites may host unsafe versions. Whether you are setting up for the first time or recovering from a crash, AOL Desktop Gold ensures you stay protected, connected, and productive.  
+
