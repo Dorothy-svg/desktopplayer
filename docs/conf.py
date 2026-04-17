@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
-project = 'Wealth Simple'
+project = 'Deskrop Layer'
 author = 'Danielle Mastrion'
 release = '1.0'
 
