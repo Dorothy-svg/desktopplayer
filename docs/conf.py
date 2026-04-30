@@ -5,8 +5,8 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
-project = 'Deskrop Layer'
-author = 'Danielle Mastrion'
+project = 'New Project'
+author = 'Bettersworth'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
